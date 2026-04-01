@@ -346,6 +346,6 @@ Ctrl + U
 **Built for the ring.**  
 If this helped you dominate, leave a ⭐ star.
 
-*( try to copy this if you can >__< )*
+
 
 </div>
